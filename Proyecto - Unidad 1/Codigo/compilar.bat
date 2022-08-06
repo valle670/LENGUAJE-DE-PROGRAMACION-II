@@ -1,0 +1,1 @@
+g++ ./main.cpp ./startShip.cpp ./snake.cpp ./XO.cpp   -o main.exe
